@@ -6,6 +6,6 @@
 
 <ul> <li> React </li> </ul>
 <ul> <li> Tailwinds </li> </ul>
-<ul> <li> Javascript </li> </ul>
+<ul> <li> TypeScript </li> </ul>
  
  
